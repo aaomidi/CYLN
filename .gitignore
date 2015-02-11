@@ -35,3 +35,6 @@ $RECYCLE.BIN/
 !.gitattributes
 !.gitignore
 *~
+
+## Ignore
+!jar/
