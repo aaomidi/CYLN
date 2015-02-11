@@ -1,0 +1,4 @@
+name: CYLN
+description: Change your long name.
+main: com.aaomidi.cyln.CYLN
+version: 1.0
